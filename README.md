@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**hoangthienclub/hoangthienclub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![](https://komarev.com/ghpvc/?username=ted-vo)
 
-Here are some ideas to get you started:
+- 💼 I’m working on [Pascal Studio]([https://inspirelab.io/](https://pascalsoftware.com/))
+- 🌱 My title is Software Engineer
+- 📕 I'm learning English
+- 💬 Ask me about anything
+  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+| | |
+|:-----|:--------|
+| OS | [![My Skills](https://skillicons.dev/icons?i=linux)](https://skillicons.dev), MacOS |
+| IDE | [![My Skills](https://skillicons.dev/icons?i=vim,androidstudio)](https://skillicons.dev) |
+| VSC | [![My Skills](https://skillicons.dev/icons?i=git,github,gitlab,bitbucket)](https://skillicons.dev) |
+| Language | [![My Skills](https://skillicons.dev/icons?i=kotlin,go,java,powershell,javascript,ts,&perline=8)](https://skillicons.dev) |
+| Cloud | [![My Skills](https://skillicons.dev/icons?i=gcp,&perline=6)](https://skillicons.dev) |
+| Orchestration System | [![My Skills](https://skillicons.dev/icons?i=docker,kubernetes)](https://skillicons.dev) |
+| Services | [![My Skills](https://skillicons.dev/icons?i=cloudflare)](https://skillicons.dev) |
